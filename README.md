@@ -4,7 +4,6 @@ A production-ready Retrieval-Augmented Generation (RAG) system with agentic work
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 📋 Table of Contents
 
@@ -807,3 +806,4 @@ Contributions welcome! Please:
 - **Email**: hiteshram321@gmail.com
 
 ---
+
