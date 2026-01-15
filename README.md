@@ -1,4 +1,4 @@
-# 🤖 Agentic RAG System
+# 🤖 Agentic Hybrid RAG System
 
 A production-ready Retrieval-Augmented Generation (RAG) system with agentic workflows, hybrid search, and automatic evaluation capabilities. Built with LangGraph, LangChain & FastAPI.
 
@@ -806,4 +806,5 @@ Contributions welcome! Please:
 - **Email**: hiteshram321@gmail.com
 
 ---
+
 
